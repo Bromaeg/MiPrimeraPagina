@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+    }
+    h1{
+    text-align: center;
+    font-size: 50px;
+    background-color: rgb(33, 0, 122);
+    color: white;
+    padding: 10px;
+    margin-top: 20px;
+    }
+    nav ul{
+    background-color: #210a74;
+    width: 100%;
+    list-style-type: none;
+    text-align: center ;
+    }
+    nav li{
+    display: inline-block;
+    padding: 10px;
+    margin: 10px;
+    }
+    nav a{text-decoration: none;
+        color: rgb(255, 0, 0);
+        padding: 10px;
+        width: 150px;
+        font-size: 15px;
+        }
+        nav li:hover{
+        background-color: #000000;
+    }*
